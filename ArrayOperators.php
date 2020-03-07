@@ -97,9 +97,3 @@ class ArrayOperators {
 ?>
 
 
-<!-- Đọc dữ liệu từ tệp mẫu numbers.txt
-	In kết ra tệp kết quả results.txt 
-    
-    
-   Tạo tài và đẩy file ArrayOperators.php chứa mã nguồn và 2 tệp numbers.txt và results.txt lên repository kiemtraketthucchuong1 ở chế độ public. Sau đó gửi đường dẫn về email vietlv173@gmail.com 
-    -->
